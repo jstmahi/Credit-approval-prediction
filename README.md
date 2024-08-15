@@ -2,13 +2,13 @@
 
 ## Table of Contents
 
-  - [Business problem](#business-problem)
-  - [Data source](#data-source)
-  - [Methods](#methods)
-  - [Tech Stack](#tech-stack)
-  - [Quick glance at the results](#quick-glance-at-the-results)
-  - [Lessons learned and recommendation](#lessons-learned-and-recommendation)
-  - [Limitation and what can be improved](#
+  - [Business problem]
+  - [Data source]
+  - [Methods]
+  - [Tech Stack]
+  - [Quick glance at the results]
+  - [Lessons learned and recommendation]
+  - [Limitation and what can be improved]
 
 
 
