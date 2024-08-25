@@ -1,4 +1,4 @@
-# Credit-card-approval-prediction
+# Credit-approval-prediction
 
 ## Table of Contents
 
